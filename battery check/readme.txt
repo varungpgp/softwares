@@ -1,1 +1,1 @@
-developed by Delta
+Developed by Delta
