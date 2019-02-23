@@ -1,0 +1,3 @@
+pyinstaller
+pip install pyinstaller
+C:\python\Scripts>pyinstaller.exe --onefile D:\battery_check.py
